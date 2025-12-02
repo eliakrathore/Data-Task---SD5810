@@ -1,0 +1,9 @@
+# Install and load the ggplot2 and dplyr packages
+
+install.packages("ggplot2")
+install.packages("dplyr")
+
+library(ggplot2)
+library(dplyr)
+
+# Happy holidays professor! 
